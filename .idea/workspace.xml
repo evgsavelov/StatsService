@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="465e42e9-81aa-4a01-a5cb-7ded88597e1c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1giXPib651zu8hk7E0bpsdDeNPl" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.netology.stats" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StatsServiceTest.calculateAverageSum">
+    <configuration name="StatsServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2.4 Statistics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.stats" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatsServiceTest.calculateAverageSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2.4 Statistics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.stats" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
+      <option name="METHOD_NAME" value="calculateAverageSum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatsServiceTest.findMax" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2.4 Statistics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.stats" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
+      <option name="METHOD_NAME" value="findMax" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StatsServiceTest.calculateAverageSum" />
+        <item itemvalue="JUnit.StatsServiceTest.findMax" />
+        <item itemvalue="JUnit.StatsServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="465e42e9-81aa-4a01-a5cb-7ded88597e1c" name="Default Changelist" comment="" />
+      <created>1598598364348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598598364348</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2518" height="385" key="GridCell.Tab.0.bottom" timestamp="1598601663459">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="385" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1598601663459" />
+    <state width="1238" height="385" key="GridCell.Tab.0.bottom/0.23.2560.1346@0.23.2560.1346" timestamp="1598601413755" />
+    <state width="2518" height="385" key="GridCell.Tab.0.center" timestamp="1598601663458">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="385" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1598601663458" />
+    <state width="1238" height="385" key="GridCell.Tab.0.center/0.23.2560.1346@0.23.2560.1346" timestamp="1598601413755" />
+    <state width="2518" height="385" key="GridCell.Tab.0.left" timestamp="1598601663457">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="385" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1598601663457" />
+    <state width="1238" height="385" key="GridCell.Tab.0.left/0.23.2560.1346@0.23.2560.1346" timestamp="1598601413754" />
+    <state width="2518" height="385" key="GridCell.Tab.0.right" timestamp="1598601663458">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="385" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1598601663458" />
+    <state width="1238" height="385" key="GridCell.Tab.0.right/0.23.2560.1346@0.23.2560.1346" timestamp="1598601413755" />
+    <state x="419" y="509" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1598599625154">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state x="419" y="509" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.2560.1346@0.23.2560.1346" timestamp="1598599625154" />
+  </component>
+</project>
