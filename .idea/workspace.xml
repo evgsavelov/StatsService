@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="465e42e9-81aa-4a01-a5cb-7ded88597e1c" name="Default Changelist" comment="" />
+    <list default="true" id="465e42e9-81aa-4a01-a5cb-7ded88597e1c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/stats/StatsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/stats/StatsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/stats/StatsServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/stats/StatsServiceTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1giXPib651zu8hk7E0bpsdDeNPl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -25,6 +34,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
   </component>
@@ -36,22 +46,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.StatsServiceTest.calculateAverageSum">
-    <configuration name="StatsServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="2.4 Statistics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.netology.stats.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.netology.stats" />
-      <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.StatsServiceTest.findQuantityOverAverage">
     <configuration name="StatsServiceTest.calculateAverageSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="2.4 Statistics" />
       <extension name="coverage">
@@ -68,7 +63,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StatsServiceTest.findMax" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StatsServiceTest.findMaxMonth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="2.4 Statistics" />
       <extension name="coverage">
         <pattern>
@@ -78,7 +73,55 @@
       </extension>
       <option name="PACKAGE_NAME" value="ru.netology.stats" />
       <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
-      <option name="METHOD_NAME" value="findMax" />
+      <option name="METHOD_NAME" value="findMaxMonth" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatsServiceTest.findMinMonth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2.4 Statistics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.stats" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
+      <option name="METHOD_NAME" value="findMinMonth" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatsServiceTest.findQuantityOverAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2.4 Statistics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.stats" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
+      <option name="METHOD_NAME" value="findQuantityOverAverage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatsServiceTest.findQuantityUnderAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2.4 Statistics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.stats" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
+      <option name="METHOD_NAME" value="findQuantityUnderAverage" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,9 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StatsServiceTest.findQuantityOverAverage" />
+        <item itemvalue="JUnit.StatsServiceTest.findQuantityUnderAverage" />
+        <item itemvalue="JUnit.StatsServiceTest.findMinMonth" />
+        <item itemvalue="JUnit.StatsServiceTest.findMaxMonth" />
         <item itemvalue="JUnit.StatsServiceTest.calculateAverageSum" />
-        <item itemvalue="JUnit.StatsServiceTest.findMax" />
-        <item itemvalue="JUnit.StatsServiceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -106,29 +151,49 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2518" height="385" key="GridCell.Tab.0.bottom" timestamp="1598601663459">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state width="2518" height="385" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1598601663459" />
-    <state width="1238" height="385" key="GridCell.Tab.0.bottom/0.23.2560.1346@0.23.2560.1346" timestamp="1598601413755" />
-    <state width="2518" height="385" key="GridCell.Tab.0.center" timestamp="1598601663458">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state width="2518" height="385" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1598601663458" />
-    <state width="1238" height="385" key="GridCell.Tab.0.center/0.23.2560.1346@0.23.2560.1346" timestamp="1598601413755" />
-    <state width="2518" height="385" key="GridCell.Tab.0.left" timestamp="1598601663457">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state width="2518" height="385" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1598601663457" />
-    <state width="1238" height="385" key="GridCell.Tab.0.left/0.23.2560.1346@0.23.2560.1346" timestamp="1598601413754" />
-    <state width="2518" height="385" key="GridCell.Tab.0.right" timestamp="1598601663458">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state width="2518" height="385" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1598601663458" />
-    <state width="1238" height="385" key="GridCell.Tab.0.right/0.23.2560.1346@0.23.2560.1346" timestamp="1598601413755" />
-    <state x="419" y="509" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1598599625154">
+    <state x="1473" y="561" width="460" height="192" key="Github.ShareDialog" timestamp="1598605062478">
       <screen x="0" y="23" width="2560" height="1346" />
     </state>
-    <state x="419" y="509" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.2560.1346@0.23.2560.1346" timestamp="1598599625154" />
+    <state x="1473" y="561" width="460" height="192" key="Github.ShareDialog/0.23.2560.1346@0.23.2560.1346" timestamp="1598605062478" />
+    <state x="1506" y="407" key="Github.UntrackedFilesDialog" timestamp="1598605075192">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state x="1506" y="407" key="Github.UntrackedFilesDialog/0.23.2560.1346@0.23.2560.1346" timestamp="1598605075192" />
+    <state width="1665" height="385" key="GridCell.Tab.0.bottom" timestamp="1598789047101">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state width="2518" height="385" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1598601663459" />
+    <state width="1665" height="385" key="GridCell.Tab.0.bottom/0.23.2560.1346@0.23.2560.1346" timestamp="1598789047101" />
+    <state width="1665" height="385" key="GridCell.Tab.0.center" timestamp="1598789047101">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state width="2518" height="385" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1598601663458" />
+    <state width="1665" height="385" key="GridCell.Tab.0.center/0.23.2560.1346@0.23.2560.1346" timestamp="1598789047101" />
+    <state width="1665" height="385" key="GridCell.Tab.0.left" timestamp="1598789047100">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state width="2518" height="385" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1598601663457" />
+    <state width="1665" height="385" key="GridCell.Tab.0.left/0.23.2560.1346@0.23.2560.1346" timestamp="1598789047100" />
+    <state width="1665" height="385" key="GridCell.Tab.0.right" timestamp="1598789047101">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state width="2518" height="385" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1598601663458" />
+    <state width="1665" height="385" key="GridCell.Tab.0.right/0.23.2560.1346@0.23.2560.1346" timestamp="1598789047101" />
+    <state x="1306" y="436" key="Vcs.Push.Dialog.v2" timestamp="1598789127307">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state x="1306" y="436" key="Vcs.Push.Dialog.v2/0.23.2560.1346@0.23.2560.1346" timestamp="1598789127307" />
+    <state x="1494" y="617" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598786186522">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state x="1494" y="617" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.2560.1346@0.23.2560.1346" timestamp="1598786186522" />
+    <state x="419" y="509" width="442" height="587" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1598789008731">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state x="419" y="509" width="442" height="587" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.2560.1346@0.23.2560.1346" timestamp="1598789008731" />
+    <state x="1406" y="292" width="600" height="807" key="find.popup" timestamp="1598786271206">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state x="1406" y="292" width="600" height="807" key="find.popup/0.23.2560.1346@0.23.2560.1346" timestamp="1598786271206" />
   </component>
 </project>
